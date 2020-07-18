@@ -30,7 +30,7 @@ Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. 
 
 
 
-Here are some ideas to get you started:
+**Talking about Personal Stuffs:**
 
 - 🔭 I’m currently Intern at CodeCrunch.
 - 🌱 I’m currently learning Angular.
@@ -39,6 +39,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Drop a mail - saketprag322@gmail.com or Any of the Social-Media Platform
 - ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
 - 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
+- ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
+
+
+
+**Community**
+- Google Developer Group Bengaluru
+- HackClub NMIT
+- Tensorflow Community Bengaluru
+- Girlscript Foundation
+- Coding Ninja
+
+**Languages and Tools:**
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <!--
 **sakigo9/sakigo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
