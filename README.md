@@ -39,7 +39,7 @@ Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. 
 - 🌱 I’m currently learning Angular.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Drop a mail - saketprag322@gmail.com or Any of the Social-Media Platform
+- 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
 - 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
 - ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
@@ -61,6 +61,4 @@ Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<!--
-**sakigo9/sakigo9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
