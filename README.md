@@ -22,7 +22,7 @@
 
 <br />
 
-Hi,I'm Saket Prag🙌, working a Software Engineer. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi,I'm Saket Prag🙌, working as a Software Engineer. Possess a great interest in programming and logical problem-solving. Explore diverse Data structures and algorithms and using them in an efficient manner to solve Creative Real World Problems. Possess a deep Enthusiasm for Competitive Programming..❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
