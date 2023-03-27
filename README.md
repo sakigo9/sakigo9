@@ -51,3 +51,7 @@ Hi,I'm Saket Prag🙌, working as a Software Engineer. Possess a great interest 
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/_pragmatic_dev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
+
+## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/saketprag) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/pragmatic_dev) 
+  
