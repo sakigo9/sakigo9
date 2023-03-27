@@ -1,7 +1,5 @@
 ### Hello World 👋 It's [Saket a.k.a Pragmatic Dev!](https://sakigo9.github.io/MyPortfolio/)
 
-<br/>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100086930737586) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_pragmatic_dev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saket-prag-31b972157/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@saketprag322) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/11910241/sakigo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/_pragmatic_dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCRO0ykDtEkF7ETss1s-H00w) 
@@ -19,15 +17,13 @@ Hi,I'm Saket Prag🙌, working as a Software Engineer. Possess a great interest 
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m from 2021 passed out batch.
-- 🌱 I’m working on application based on React.js and Node.js.
+- 🔭 I'm a passionate full-stack engineer with expertise in React, Node.js, MongoDB, TypeScript, MySQL, and JavaScript.
+- 🌱 I create robust and scalable solutions to tackle complex business problems.
 - 👯 Part of Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
-- ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
+- 💬 You can find me sharing insightful posts on Twitter about the latest trends and best practices in the tech industry. 
+- 📫 Book a free call[TopMate](https://topmate.io/saket_prag)
+- ⚡ Additionally, I've taken free sessions on career guidance and conducted mock interviews to help aspiring developers kickstart their careers.
 - 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
-- ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
-
 
 
 **Community**
