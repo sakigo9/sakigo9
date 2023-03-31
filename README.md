@@ -7,7 +7,13 @@
 
 <br />
 
-Hi,I'm Saket Prag🙌, working as a Software Engineer. Possess a great interest in programming and logical problem-solving. Explore diverse Data structures and algorithms and using them in an efficient manner to solve Creative Real World Problems. Possess a deep Enthusiasm for Competitive Programming..❤✌
+I am a Full-Stack Developer with extensive experience in Typescript, Javascript, React, Redux, Node, CSS, and SQL. With my passion for coding and problem-solving, I have gained proficiency in creating web applications that are not only efficient but also user-friendly.
+
+As a tech enthusiast, I love to share my experiences and insights with others. Through my tweets and blogs, I aim to provide valuable information and guidance to those who are looking to improve their skills in the field of web development.
+
+Apart from that, I also offer free mentorship calls and career guidance sessions. I understand that the world of technology can be overwhelming, and it's not always easy to find the right path. Therefore, I am always ready to lend an ear and provide my expertise to help you make informed decisions.
+
+So, whether you're a beginner looking to start your journey in web development or an experienced developer looking to take your skills to the next level, I am here to help you. Let's connect and explore the exciting world of web development together!..❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
